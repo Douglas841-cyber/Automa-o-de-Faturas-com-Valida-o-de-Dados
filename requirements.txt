@@ -1,0 +1,6 @@
+imap-tools
+python-dotenv
+requests
+pdfplumber
+pytesseract
+pdf2image
